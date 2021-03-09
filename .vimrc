@@ -152,8 +152,8 @@ xmap ga <Plug>(EasyAlign)
 nmap ga <Plug>(EasyAlign)
 
 " Copy or paste to / from sysytem clipboard
-noremap <Leader>y "*y
-noremap <Leader>p "*p
+noremap <Leader>y "+y
+noremap <Leader>p "+p
 
 " Restore vim mappings overidden by vim-wordmotion plugin
 nmap dw de
